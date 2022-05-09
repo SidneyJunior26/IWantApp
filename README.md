@@ -1,7 +1,5 @@
 # IWantApp
 
-# API-Devjobs
-
 API REST completa para cadastro de Categoria, Produtos, Pedidos e Usuários/Clientes.
 
 ![Badge Desenvolvida](http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIDO&color=GREEN&style=for-the-badge)
